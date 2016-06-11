@@ -1,0 +1,36 @@
+.HER--ban{width:100%; background:#fff url(../img/HER-ban-BG.png) no-repeat left top; padding:0px 0 0px 0; margin:0 auto; float：left; }
+
+.HER-ban-BOT{width:100%; height:15px; background:url(../img/HER-ban-BOT.jpg);}
+
+.HER-url-BOT{width:1000px; height:15px; background:url(../img/HER-url-BOT.jpg); margin:0 auto; display:block;}
+
+#banner { margin: 0 auto; padding: 0px; width:100%; height:350px; display:block; overflow:hidden;}
+
+.slides { margin: 0px auto; width:100%; height: 350px; overflow: hidden; position: relative; }
+
+.slide-pic { margin: 0px; padding: 0px; width:100%; overflow: hidden; list-style: none; }
+
+.slide-pic img {height:100%; width:100%; margin:0 auto;}
+
+.slide-pic li { display: none; }
+
+.slide-pic li.cur { display: block; }
+
+.iconbg { bottom:0;  position: absolute; width:100%; height:30px; background:#fff;filter:alpha(opacity=50); /*支持 IE 浏览器*/-moz-opacity:0.50; /*支持 FireFox 浏览器*/opacity:0.50;  /*支持 Chrome, Opera, Safari 等浏览器*/}
+
+.icon { bottom:0;  position: absolute; width:100%; }
+
+.slide-li { margin:0 auto;  bottom:0;  width:60px;}
+
+.slide-li li { margin: 0px; padding: 0px; width: 30px; height: 30px; float: left; overflow: hidden; list-style: none; }
+
+.slide-li a { width: 30px; height: 30px; font-size: 0px; display: block; }
+
+.slide-li a:hover { color: #F00; text-decoration: none; }
+
+.op li { background: url(../img/bicon1.png) no-repeat; }
+
+.op li.cur { background: url(../img/bicon2.png) no-repeat; }
+
+.slide-txt span { display: none; }
+
