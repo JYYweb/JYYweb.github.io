@@ -1,8 +1,8 @@
-.HER--ban{width:100%; background:#fff url(../img/HER-ban-BG.png) no-repeat left top; padding:0px 0 0px 0; margin:0 auto; float：left; }
+.HER--ban{width:100%; background:#fff url(../images/HER-ban-BG.png) no-repeat left top; padding:0px 0 0px 0; margin:0 auto; float：left; }
 
-.HER-ban-BOT{width:100%; height:15px; background:url(../img/HER-ban-BOT.jpg);}
+.HER-ban-BOT{width:100%; height:15px; background:url(../images/HER-ban-BOT.jpg);}
 
-.HER-url-BOT{width:1000px; height:15px; background:url(../img/HER-url-BOT.jpg); margin:0 auto; display:block;}
+.HER-url-BOT{width:1000px; height:15px; background:url(../images/HER-url-BOT.jpg); margin:0 auto; display:block;}
 
 #banner { margin: 0 auto; padding: 0px; width:100%; height:350px; display:block; overflow:hidden;}
 
@@ -28,9 +28,9 @@
 
 .slide-li a:hover { color: #F00; text-decoration: none; }
 
-.op li { background: url(../img/bicon1.png) no-repeat; }
+.op li { background: url(../images/bicon1.png) no-repeat; }
 
-.op li.cur { background: url(../img/bicon2.png) no-repeat; }
+.op li.cur { background: url(../images/bicon2.png) no-repeat; }
 
 .slide-txt span { display: none; }
 
